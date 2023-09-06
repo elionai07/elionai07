@@ -10,5 +10,4 @@ Meu nome é Elionai de Queiroz 💓
 
 elionaiqueiroz0@gmail.com
 
-
 queiroz.elionai@escola.pr.gov.br
