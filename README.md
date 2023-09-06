@@ -1,6 +1,6 @@
 ### Boas Vindas Ao Meu Perfil 💓
 
-Meu nome é Elionai de Queiroz
+Meu nome é Elionai de Queiroz 💓
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
@@ -9,3 +9,4 @@ Meu nome é Elionai de Queiroz
 ### Você entra em contato comigo 📫
 
 elionaiqueiroz0@gmail.com
+queiroz.elionai@escola.pr.gov.br
