@@ -13,4 +13,3 @@ elionaiqueiroz0@gmail.com
 queiroz.elionai@escola.pr.gov.br
 
 
-![](https://tenor.com/pt-BR/view/hedgehog-floating-bath-time-gif-9915686)
